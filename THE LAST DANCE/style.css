@@ -1,0 +1,23 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+h1, h2, h3 {
+    color: #ffcc00; /* Texto em amarelo para destaque */
+}
+p, ul {
+    background-color: #1e1e1e;
+    padding: 15px;
+    border-radius: 8px;
+    color: #f0f0f0;
+}
+ul {
+    list-style-type: none; /* Remove marcadores padrão da lista */
+}
+ul li {
+    margin-bottom: 10px;
+}
+script {
+    color: #00ff00;
+}
